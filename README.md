@@ -29,4 +29,4 @@ We use pandas and seaborn for data visualization.
 
 - The histogram is an accurate representation of the distribution of numerical data. It is an estimate of the probability distribution of a continuous variable (quantitative variable).
 
-The dataset can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/iris/ and the source code to visualize the data from the [Jupyter Notebook](../irisProject.ipynb)
+The dataset can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/iris/ and the source code to visualize the data from the [Jupyter Notebook](/irisProject.ipynb)
